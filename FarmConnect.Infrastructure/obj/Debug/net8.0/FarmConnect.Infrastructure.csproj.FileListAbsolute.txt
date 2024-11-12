@@ -1,0 +1,15 @@
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Infrastructure\bin\Debug\net8.0\FarmConnect.Infrastructure.deps.json
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Infrastructure\bin\Debug\net8.0\FarmConnect.Infrastructure.dll
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Infrastructure\bin\Debug\net8.0\FarmConnect.Infrastructure.pdb
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Infrastructure\bin\Debug\net8.0\FarmConnect.Domain.dll
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Infrastructure\bin\Debug\net8.0\FarmConnect.Domain.pdb
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Infrastructure\obj\Debug\net8.0\FarmConnect.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Infrastructure\obj\Debug\net8.0\FarmConnect.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Infrastructure\obj\Debug\net8.0\FarmConnect.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Infrastructure\obj\Debug\net8.0\FarmConnect.Infrastructure.AssemblyInfo.cs
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Infrastructure\obj\Debug\net8.0\FarmConnect.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Infrastructure\obj\Debug\net8.0\FarmConn.11D2A3BC.Up2Date
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Infrastructure\obj\Debug\net8.0\FarmConnect.Infrastructure.dll
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Infrastructure\obj\Debug\net8.0\refint\FarmConnect.Infrastructure.dll
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Infrastructure\obj\Debug\net8.0\FarmConnect.Infrastructure.pdb
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Infrastructure\obj\Debug\net8.0\ref\FarmConnect.Infrastructure.dll

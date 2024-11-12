@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmConnect.API", "FarmConnect.API\FarmConnect.API.csproj", "{074C7EDF-7970-4816-93E0-BA80401B32EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmConnect.Application", "FarmConnect.Application\FarmConnect.Application.csproj", "{5EC7092B-A281-40AD-B03D-563E5B54A4B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmConnect.Domain", "FarmConnect.Domain\FarmConnect.Domain.csproj", "{40427B26-40E3-45F0-BA83-D99130783658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmConnect.Infrastructure", "FarmConnect.Infrastructure\FarmConnect.Infrastructure.csproj", "{BAA16F60-6B71-46DB-A9AB-BF80715A26A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074C7EDF-7970-4816-93E0-BA80401B32EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074C7EDF-7970-4816-93E0-BA80401B32EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074C7EDF-7970-4816-93E0-BA80401B32EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074C7EDF-7970-4816-93E0-BA80401B32EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC7092B-A281-40AD-B03D-563E5B54A4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC7092B-A281-40AD-B03D-563E5B54A4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC7092B-A281-40AD-B03D-563E5B54A4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC7092B-A281-40AD-B03D-563E5B54A4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40427B26-40E3-45F0-BA83-D99130783658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40427B26-40E3-45F0-BA83-D99130783658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40427B26-40E3-45F0-BA83-D99130783658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40427B26-40E3-45F0-BA83-D99130783658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA16F60-6B71-46DB-A9AB-BF80715A26A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA16F60-6B71-46DB-A9AB-BF80715A26A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA16F60-6B71-46DB-A9AB-BF80715A26A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA16F60-6B71-46DB-A9AB-BF80715A26A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Application\obj\Debug\net8.0\FarmConnect.Application.csproj.AssemblyReference.cache
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Application\obj\Debug\net8.0\FarmConnect.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Application\obj\Debug\net8.0\FarmConnect.Application.AssemblyInfoInputs.cache
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Application\obj\Debug\net8.0\FarmConnect.Application.AssemblyInfo.cs
+C:\Users\Ibrohim\Desktop\The_Green_Grocer\FarmConnect.Application\obj\Debug\net8.0\FarmConnect.Application.csproj.CoreCompileInputs.cache
